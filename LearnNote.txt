@@ -18,5 +18,7 @@ I am learning git.
 
 Knowned command:
 git init		--> Initialized an empty git repository
-git add			--> Add the alert of Working Directory to stage
-git commit		--> 
+git add filename			--> Add the alert of Working Directory to stage
+git commit -m "message"		--> 
+git status
+git diff filename
