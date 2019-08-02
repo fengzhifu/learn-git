@@ -1,0 +1,22 @@
+I am learning git.
+
+
+ --Working Directory-------        --Repository-------------------------------
+ |                        |        |                                         |
+ |  |-folder              |        |   ________                _________     |
+ |  |--file1              |  add   |   | stage \      commit   | master \    |
+ |  |-file2         ------|--------|-->|        |  ----------->|         |   |
+ |                        |        |   |        |              |         |   |
+ |                        |        |   |        |              |         |   |
+ |                        |        |   |        |              |         |   |
+ |                        |        |   |        |              |         |   |
+ |                        |        |   |        |              |         |   |
+ |                        |        |   ----------              -----------   |           
+ |                        |        |                                         |
+ |                        |        |                                         |
+ --------------------------        -------------------------------------------
+
+Knowned command:
+git init		--> Initialized an empty git repository
+git add			--> Add the alert of Working Directory to stage
+git commit		--> 
