@@ -22,3 +22,12 @@ git add filename			--> Add the alert of Working Directory to stage
 git commit -m "message"		--> 
 git status
 git diff filename
+git log (--prety=oneline)
+git reset --hard (HEAD^ --> latest version | HEAD^^ --> version before latest | commit id )
+git reflog           --> record of your every command
+git diff HEAD -- filename
+git checkout -- filename
+git rm filename
+
+
+ 
